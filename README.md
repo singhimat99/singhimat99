@@ -1,4 +1,4 @@
-<h1>Hi, I'm Himat, an <a href="https://linkedin.com/in/himatsingh1">IT Professional</a>☺</h1>
+<h1>Hi, I'm Himat, an <a href="https://linkedin.com/in/himatsingh1">Tech Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
